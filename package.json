@@ -1,0 +1,15 @@
+{
+  "name": "webpack-demo-auto-tracker",
+  "version": "1.0.0",
+  "description": "1. 为了学习开发babel和webpack插件 2. 埋点是我们前端同学在开发过程中经常需要加的，每个项目或多或少都有埋点的需求，我们能否通过自动化的方式在我们的项目中添加埋点呢？",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
